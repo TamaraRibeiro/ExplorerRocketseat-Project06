@@ -14,6 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-You can see the project layout through
-[here](https://www.figma.com/community/file/1256354736253234634).
-You must have an account at [Figma](https://www.figma.com)
+Você pode ver o layout do projeto
+[aqui](https://www.figma.com/community/file/1256354736253234634).
